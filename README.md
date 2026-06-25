@@ -42,7 +42,7 @@ Scheme is a minimal, elegant language that sharpens logical and algorithmic thin
 ## 👤 Author
 
 **Arsène** — Software Engineering Student  
-📍 Akieni Academy, Brazzaville, Congo  
+📍 CFI-CIRAS & Akieni Academy, Brazzaville, Congo  
 🔗 [GitHub Profile](https://github.com/arsene-akiana)
 
 ---

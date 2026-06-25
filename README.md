@@ -1,6 +1,6 @@
 # practical-scheme
 
-Hands-on exercises and projects in **Scheme** (a dialect of Lisp), completed as part of my Computer Science and Software Engineering studies at **Akieni Academy** (Brazzaville, Congo).
+Hands-on exercises and projects in **Scheme** (a dialect of Lisp), completed as part of my Computer Science and Software Engineering studies at **CFI-CIRAS** (Brazzaville, Congo).
 
 This repository focuses on applying Scheme to real problems — not just syntax, but logic, recursion, and functional thinking.
 
